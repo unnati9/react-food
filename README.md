@@ -16,8 +16,6 @@ This is a basic React Project to showcase all the core concepts of React.
 7. Event Handling
 8. State Management
 9. HTTP request handling
-10. 
-
 
 ## Available Scripts
 
