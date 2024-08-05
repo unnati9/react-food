@@ -1,0 +1,9 @@
+.control-row {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2rem;
+}
+
+h2 {
+    margin: 1rem 0;
+}

@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem 10%;
+    align-items: center;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.icon img {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    border: 1px solid #ffc404;
+}
+
+.icon h1 {
+    color: #ffc404;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.header button {
+    font-size: 1.5rem;
+    font-family: 'Lato', sans-serif;
+}
